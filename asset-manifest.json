@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.b08aa292.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.b08aa292.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.bd66392f.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.bd66392f.js.map",
-    "static/js/2.791e54da.chunk.js": "/react-gh-pages/static/js/2.791e54da.chunk.js",
-    "static/js/2.791e54da.chunk.js.map": "/react-gh-pages/static/js/2.791e54da.chunk.js.map",
-    "static/js/3.ccfac1c5.chunk.js": "/react-gh-pages/static/js/3.ccfac1c5.chunk.js",
-    "static/js/3.ccfac1c5.chunk.js.map": "/react-gh-pages/static/js/3.ccfac1c5.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/react-gh-pages/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.791e54da.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.791e54da.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/react-gh-pages/static/media/logo.6ce24c58.svg"
+    "main.css": "/ytube-dl/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/ytube-dl/static/js/main.b08aa292.chunk.js",
+    "main.js.map": "/ytube-dl/static/js/main.b08aa292.chunk.js.map",
+    "runtime-main.js": "/ytube-dl/static/js/runtime-main.fe8c1699.js",
+    "runtime-main.js.map": "/ytube-dl/static/js/runtime-main.fe8c1699.js.map",
+    "static/js/2.791e54da.chunk.js": "/ytube-dl/static/js/2.791e54da.chunk.js",
+    "static/js/2.791e54da.chunk.js.map": "/ytube-dl/static/js/2.791e54da.chunk.js.map",
+    "static/js/3.ccfac1c5.chunk.js": "/ytube-dl/static/js/3.ccfac1c5.chunk.js",
+    "static/js/3.ccfac1c5.chunk.js.map": "/ytube-dl/static/js/3.ccfac1c5.chunk.js.map",
+    "index.html": "/ytube-dl/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/ytube-dl/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.791e54da.chunk.js.LICENSE.txt": "/ytube-dl/static/js/2.791e54da.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ytube-dl/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bd66392f.js",
+    "static/js/runtime-main.fe8c1699.js",
     "static/js/2.791e54da.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.b08aa292.chunk.js"
